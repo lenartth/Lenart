@@ -1,0 +1,315 @@
+.underheader{
+
+width: 100%;
+height: 400px;
+}
+
+
+.mentorimg{
+
+display: block;
+max-width: 480px !important;
+margin-left: auto;
+margin-right: auto;
+    
+}
+
+
+.underheaderdiv{
+
+    display: flex;
+
+}
+
+.underheadertitle{
+    margin-top: 125px;
+    font-size: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #4e4e50;
+}
+
+.underheadertext{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #950740;
+
+
+}
+
+.backgroundportfolio{
+
+    width: 100%;
+    height: 500px;
+    background-color: #950740;
+    text-align: center;
+    align-content: center;
+    
+
+}
+
+.startupproject{
+    padding-top: 200px;
+    color: white;
+
+}
+
+
+.justmaxwidth{
+    display: flex;
+    max-width: 700px;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+
+}
+
+.row{
+
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 1200px;
+    align-content: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.card{
+    height: 350px;
+    width: 30%;
+    align-content: center;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    margin-top: -100px;
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: 1px lightgrey;
+}
+.cardh1{
+    margin-top: 50px;
+    text-align: center;
+    color: #141c3a;
+    font-size: 25px;
+}
+
+.cardp{
+    margin-top: 50px;
+    text-align: center;
+    color: #4e4e50;
+    
+
+}
+
+.Indev{
+
+    width: 20px;
+    height: 20px;
+
+}
+
+
+
+.buttondisable{
+    display: flex;
+    text-decoration: none;
+    border:none;
+    font-size: 15px;
+    color: #950740;
+    background-color: white !important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+   
+    
+}
+
+.buttondisable:disabled {
+    cursor: not-allowed;
+    pointer-events: all !important;
+  }
+
+  .buttondisable a{
+
+    color: #950740 !important;
+    transition: none !important;
+    text-decoration: none;
+
+
+  }
+
+  .buttondisable a:hover{
+
+    color: #c3073f;
+    transition: 0.5s ease;
+
+
+  }
+
+.midbackground{
+
+    
+    width: 100%;
+    height: 500px;
+    background-color: #950740;
+    margin-top: 250px;
+
+}
+
+
+.alignmidbackground{
+
+display: flex;
+
+}
+
+.midbackgroundh1{
+margin-top: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+
+
+}
+
+.alignmidbackgroundp{
+
+
+text-align: center;
+max-width: 800px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.midbackgroundp{
+
+margin-top: 25px;
+display: flex;
+text-align: center;
+color: white;
+
+
+
+}
+
+.rowmid{
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    max-width: 1200px;
+    align-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+
+
+}
+
+.cardmid{
+    margin-top: -200px;
+    margin-bottom: 200px;
+    height: 350px;
+    width: 50%;
+    border: 1px solid lightgrey;
+    background-color: white;
+    box-shadow: 1px lightgrey;
+    text-align: center;
+    
+
+}
+
+.shtyje{
+
+height: 300px;
+
+}
+
+
+.row4{
+
+    width: 50px;
+    width: 50px;
+    margin-top: 50px;
+
+}
+
+.newcardh1{
+
+    margin-top: 10px;
+    color:#4e4e50;
+    
+
+}
+
+
+.newcardh4{
+
+    margin-top: 30px;
+    color:#4e4e50;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: "eurostile", sans-serif;
+   
+
+
+}
+
+.maxdiv{
+
+    max-width: 450px;
+    align-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+
+}
+
+.divradius{
+
+    border-top-left-radius: 10px;
+
+}
+
+.divradius1{
+
+    border-top-right-radius: 10px;
+
+}
+
+.divradius2{
+
+    border-bottom-left-radius: 10px;
+
+}
+
+.divradius3{
+
+    border-bottom-right-radius: 10px;
+
+}
+
+.ibexlink{
+
+
+    display: flex;
+    text-decoration: none;
+    border:none;
+    font-size: 15px;
+    color: #950740;
+    background-color: white !important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 150px;
+    height: 30px;
+
+
+}
+
+.ibexlink:hover{
+
+    color: #c3073f;
+    font-weight: 550;
+}

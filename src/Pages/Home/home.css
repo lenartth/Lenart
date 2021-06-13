@@ -1,0 +1,298 @@
+
+  
+
+
+
+
+.startbar{
+
+color:#4e4e50;
+text-align: center;
+padding-top: 125px;
+font-size: 45px;
+
+
+
+}
+
+.quote{
+
+color: #950740;
+text-align: center;
+padding-top: 10px;
+font: 25px;
+
+
+
+}
+.profilepic{
+
+width: 250px;
+height: 250px;
+border-radius: 100%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;
+}
+
+.alignimgcenter{
+
+    display: flex;
+    
+}
+
+.alignworkcenter{
+
+    display: flex;
+
+}
+
+.workstation{
+
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: bottom;
+    margin-top: 100px;
+    
+    }
+
+.background{
+
+    text-align: center;
+    width: 100%;
+    height: 650px;
+    background-color: #950740;
+    border: 3px black;
+    
+
+}    
+
+
+.presentation{
+
+    padding-top: 150px;
+    padding-bottom: 50px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+ .presentation h1{
+    
+    font-family: "eurostile", sans-serif;
+    text-rendering: optimizeLegibility;
+
+}
+
+.texth2{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    max-width: 800px;
+
+}
+
+.texth2{
+
+    color: white;
+}
+
+
+
+.section {
+    padding: 5rem 1.5rem;
+
+}
+
+.has-text-centered {
+    text-align: center !important;
+}
+
+.container.is-narrow {
+    max-width: 1200px;
+    margin-top: -250px;
+}
+
+.box {
+    border-radius: 12px;
+}
+
+.box {
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 0 5px 5px 0 rgb(233 240 243 / 50%), 0 0 0 1px #e6ecf8;
+    color: #141c3a;
+    display: block;
+    padding: 1.25rem;
+}
+
+.column {
+    display: block;
+    flex-basis: 0;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    padding: 0.75rem;
+}
+
+.container {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    margin: 0 auto;
+    position: relative;
+    width: auto;
+}
+
+.section.skills .box .content .columns {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+
+.columns.is-centered {
+    -webkit-box-pack: center;
+    justify-content: center;
+    
+}
+
+.columns {
+    margin-left: -0.75rem;
+    margin-right: -0.75rem;
+    margin-top: -0.75rem;
+    display: flex;
+}
+
+
+.title{
+
+padding-bottom: 30px;
+
+}
+
+.DesignerIco{
+
+    margin-top: 50px;
+    width: 50px;
+    height: 50px;
+    margin-bottom:30px ;
+
+
+}
+
+.column p{
+
+font-size: 17px;
+
+}
+
+
+.Workstodo{
+
+margin-top: 50px;
+margin-bottom: 20px;
+color: #950740;
+
+}
+
+
+.Worktodoagain{
+
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: #950740;
+
+
+}
+
+.paragraf{
+
+    margin-bottom: 10px;
+}
+
+.column {
+    border-bottom: 0px solid #E6ECF8;
+    border-right: 1px solid #E6ECF8;
+    padding: 60px 35px;
+}
+
+.column4{
+
+    border-right: 0px !important;
+
+} 
+
+
+.gladto{
+
+    display: flex;
+
+
+}
+
+.whoiwork{
+
+ margin-left: auto;
+ margin-right:auto;
+ margin-top: 100px;
+
+}
+
+
+.section.clients .client-grid {
+    padding-top: 3rem;
+}
+
+.section{
+border-bottom: 1px solid lightgrey;
+
+}
+
+.client-grid{
+
+    margin-top: 50px;
+    display: flex;
+    align-items: center !important;
+
+}
+
+
+
+.starlabslogo{
+
+    margin-left: auto;
+    width: 250px;
+    height: 250px;
+    margin-right: 50px;
+
+
+}
+
+.ibexlogo{
+
+    width: 250px;
+    height: 250px;
+    margin-right: 50px;
+
+}
+
+.gmwlogo{
+
+    width: 250px;
+    height: 200px;
+    margin-right: auto;
+} 
+
+.whoiwork{
+
+    color:#4e4e50;
+    text-align: center;
+    font-size: 35px;
+
+}
+
+
+.container {
+
+margin-bottom: 50px;
+
+}
